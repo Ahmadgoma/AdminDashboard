@@ -1,0 +1,63 @@
+/*====Gernral====*/
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+*{
+    font-family: 'Cairo', sans-serif ;
+}
+h2{
+    font-family: 'Cairo', sans-serif;
+}
+body {
+    overflow-x: hidden;
+}
+
+.sidebar-toggler {
+    display: none !important;
+}
+
+.page-content {
+    min-height: 870px !important;
+}
+
+.red-star {
+    color: red;
+}
+
+/*.btn {*/
+    /*padding: 7px 30px !important;*/
+    /*font-size: 16px !important;*/
+/*}*/
+
+/*==== Footer ====*/
+
+.page-footer {
+    display: flex;
+    justify-content: center;
+    background-color: #14223a;
+}
+
+/*====All  Edafet Sections ====*/
+
+.form-horizontal .form-group.form-md-line-input > label {
+    text-align: center;
+    font-size: 17px;
+}
+
+
+
+/*==== Button products page  ====*/
+
+.show-products .pull-left a {
+    margin: 15px 10px;
+}
+
+
+.show-products .form-group strong {
+    min-width: 110px;
+    display: inline-block;
+    min-width: 100px;
+    margin-left: 10px;    
+    color: #3f587f;
+}
+.show-products .form-group   {
+    font-size: 16px;
+} 
