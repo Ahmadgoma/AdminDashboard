@@ -1,5 +1,6 @@
 # AdminDashboard
-•	(Admin CRUD) 
+•	(Admin CRUD)
+
 o	Create an admin control panel
 o	Create CRUD system for a Category and Products
 o	Category fields are [name & icon image (20px*20px) ]
