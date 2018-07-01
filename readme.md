@@ -8,4 +8,4 @@
 •	Category & Product listing has id,name, updated date
 •	No login 
 •	Use migrations to create  database tables
-• Use Restful routing
+• 	Use Restful routing
